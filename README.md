@@ -1,4 +1,4 @@
-React Dashboard with Dynamic & Nested Routes
+**React Dashboard with Dynamic Routes**
 
 This project demonstrates:
 - Programmatic navigation using `useNavigate`
